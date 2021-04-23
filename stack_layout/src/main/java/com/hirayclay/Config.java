@@ -25,5 +25,5 @@ public class Config {
   @FloatRange(from = 1f, to = 2f)
   public float parallex = 1f;
 
-  Align align;
+  public Align align;
 }
