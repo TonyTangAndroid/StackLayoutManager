@@ -5,7 +5,7 @@ package com.hirayclay;
  *
  * @author CJJ
  */
-enum Align {
+public enum Align {
   LEFT(1),
   RIGHT(-1),
   TOP(1),
